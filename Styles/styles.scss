@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url(/images/pattern-background-desktop.svg);
+  background-size: contain;
   background-repeat: no-repeat;
   background-color: $paleBlue;
   font-family: 'Red Hat Display', sans-serif;
